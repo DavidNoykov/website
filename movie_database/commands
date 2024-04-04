@@ -1,0 +1,6 @@
+python manage.py cli_commands movlst
+python manage.py cli_commands movdt
+python manage.py cli_commands movsrch
+python manage.py cli_commands movadd
+python manage.py cli_commands movfv
+python manage.py cli_commands movcat
